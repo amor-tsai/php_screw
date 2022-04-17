@@ -1,5 +1,10 @@
 # php_screw
 
+## Introduction
+Diff from Source:http://sourceforge.net/projects/php-screw/
+I add a screw deciphering tool named screwd in the dir "tools".
+
+
 ##简介
 转自http://sourceforge.net/projects/php-screw/
 本人只是简单添加了一个screw的解密工具,在tools目录下,screwd.
