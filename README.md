@@ -17,4 +17,14 @@ I add a screw deciphering tool named screwd in the dir "tools".
 有任何疑问可以联系我 amor.tsai@gmail.com 
 
 
+##Introduction 
+Translated from http://sourceforge.net/projects/php-screw/ I have simply added a decryption tool for Screw, located in the "tools" directory, named "screwd".
+
+##Usage Compiling the PHP extension goes without saying, it's quite simple (I have personally tested it and it compiles successfully under PHP 5.6, fixing the issues encountered in previous versions).
+In the "tools" directory, run the "make" command to generate two executable files, "screw" and "screwd". The former is used for file encryption, while the latter is used for file decryption.
+The encrypted files retain their original names, while the previously unencrypted files are transformed into files with the ".screw" extension.
+Decrypted files will have the ".src" extension appended to their original names.
+If you have any questions, feel free to contact me at amor.tsai@gmail.com.
+
+
 
